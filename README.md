@@ -1,10 +1,10 @@
 # repeats
 
-> répétez s’il vous plaît
+> répétez s’il vous plaît (repeat please)
 
 or
 
-> je ne comprends pas bien
+> je ne comprends pas bien (I don't understand well/everything)
 
 Since I keep repeating myself when responding to particular kinds of issues, I figured it was time to curate them. These issues are likely a consistent user experience problem, which we need to fix with:
 
